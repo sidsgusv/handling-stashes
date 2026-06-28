@@ -1,1 +1,3 @@
 Modified feature A
+
+Adding some changes from new branch
